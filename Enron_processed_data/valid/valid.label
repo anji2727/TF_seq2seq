@@ -3,7 +3,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -24,7 +23,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -111,7 +109,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -119,6 +116,7 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
@@ -130,7 +128,8 @@ None
 None
 None
 None
-Commitment
+None
+None
 Commitment
 None
 None
@@ -145,7 +144,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -158,8 +156,6 @@ None
 None
 None
 None
-Commitment
-Commitment
 None
 None
 None
@@ -181,10 +177,13 @@ None
 None
 None
 None
+None
+Commitment
 None
 None
 None
 None
+Commitment
 None
 None
 None
@@ -200,13 +199,13 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
 None
 None
 None
+Commitment
 None
 None
 None
@@ -256,6 +255,7 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
@@ -313,17 +313,14 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
 None
 None
 None
-Commitment
 None
 None
-Commitment
 None
 None
 None
@@ -345,7 +342,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -360,7 +356,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -386,7 +381,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -421,7 +415,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -434,10 +427,13 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
 None
+Commitment
+Commitment
 None
 None
 None
@@ -451,11 +447,11 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
 None
+Commitment
 None
 None
 None
@@ -464,13 +460,11 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -490,7 +484,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -543,7 +536,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -630,13 +622,11 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -656,7 +646,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -664,6 +653,7 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
@@ -696,13 +686,13 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -719,6 +709,7 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
@@ -780,6 +771,7 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
@@ -810,7 +802,6 @@ None
 None
 None
 None
-Commitment
 None
 Commitment
 None
@@ -818,6 +809,7 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
@@ -833,6 +825,7 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
@@ -855,8 +848,6 @@ None
 None
 None
 None
-Commitment
-Commitment
 None
 None
 None
@@ -867,8 +858,6 @@ None
 None
 None
 None
-Commitment
-Commitment
 None
 None
 None
@@ -913,7 +902,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -943,6 +931,7 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
@@ -962,7 +951,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -1052,7 +1040,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -1123,7 +1110,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -1145,7 +1131,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -1162,7 +1147,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -1170,7 +1154,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -1234,6 +1217,7 @@ None
 None
 None
 None
+None
 Commitment
 None
 None
@@ -1285,7 +1269,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -1324,6 +1307,8 @@ None
 None
 None
 None
+Commitment
+Commitment
 None
 None
 None
@@ -1469,7 +1454,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -1492,7 +1476,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -1526,11 +1509,11 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
 None
+Commitment
 None
 None
 None
@@ -1549,7 +1532,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -1576,9 +1558,7 @@ None
 None
 None
 None
-Commitment
 None
-Commitment
 None
 None
 None
@@ -1626,6 +1606,7 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
@@ -1662,8 +1643,10 @@ None
 None
 None
 None
+Commitment
 None
 None
+Commitment
 None
 None
 None
@@ -1715,7 +1698,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -1737,7 +1719,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -1754,7 +1735,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -1768,13 +1748,10 @@ None
 None
 None
 None
-Commitment
 None
 None
-Commitment
 None
 None
-Commitment
 None
 None
 None
@@ -1813,15 +1790,19 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
 None
 None
+Commitment
 None
 None
 None
 None
+Commitment
+Commitment
 None
 None
 None
@@ -1833,8 +1814,10 @@ None
 None
 None
 None
+Commitment
 None
 None
+Commitment
 None
 None
 None
@@ -1879,7 +1862,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -1890,7 +1872,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -1910,7 +1891,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -1928,7 +1908,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -1936,6 +1915,7 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
@@ -1955,15 +1935,15 @@ None
 None
 None
 None
+Commitment
 None
 None
+Commitment
 None
 None
 None
 None
 None
-Commitment
-Commitment
 None
 None
 None
@@ -1971,6 +1951,7 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
@@ -2062,7 +2043,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -2101,6 +2081,7 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
@@ -2200,12 +2181,12 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -2234,7 +2215,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -2391,6 +2371,7 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
@@ -2405,7 +2386,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -2434,6 +2414,7 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
@@ -2452,6 +2433,7 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
@@ -2481,15 +2463,18 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
+Commitment
 None
 None
 None
 None
 None
 None
+Commitment
 None
 None
 None
@@ -2515,6 +2500,7 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
@@ -2535,7 +2521,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -2549,9 +2534,9 @@ None
 None
 None
 None
-Commitment
 None
 None
+Commitment
 None
 None
 None
@@ -2561,7 +2546,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -2574,6 +2558,7 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
@@ -2587,6 +2572,7 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
@@ -2630,15 +2616,12 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
 None
 None
-Commitment
 None
-Commitment
 None
 None
 None
@@ -2663,7 +2646,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -2680,6 +2662,7 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
@@ -2741,16 +2724,15 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
 None
 None
 None
+Commitment
 None
 None
-Commitment
 None
 None
 None
@@ -2810,6 +2792,8 @@ None
 None
 None
 None
+Commitment
+Commitment
 None
 None
 None
@@ -2818,7 +2802,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -2845,6 +2828,7 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
@@ -2873,7 +2857,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -2935,6 +2918,7 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
@@ -2945,7 +2929,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -2960,6 +2943,7 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
@@ -3039,6 +3023,7 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
@@ -3067,6 +3052,7 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
@@ -3084,6 +3070,7 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
@@ -3099,6 +3086,7 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
@@ -3120,7 +3108,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -3145,6 +3132,7 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
@@ -3168,10 +3156,13 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
 None
+Commitment
+Commitment
 None
 None
 None
@@ -3198,7 +3189,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -3286,6 +3276,7 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
@@ -3299,7 +3290,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -3317,6 +3307,7 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
@@ -3363,7 +3354,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -3412,7 +3402,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -3433,6 +3422,7 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
@@ -3457,16 +3447,18 @@ None
 None
 None
 None
-Commitment
 None
 None
-Commitment
+None
+None
 None
 None
 None
 None
 None
 None
+None
+None
 Commitment
 None
 None
@@ -3508,6 +3500,7 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
@@ -3537,6 +3530,7 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
@@ -3553,6 +3547,7 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
@@ -3658,7 +3653,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -3670,7 +3664,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -3678,12 +3671,12 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
 None
 None
+Commitment
 None
 None
 None
@@ -3692,8 +3685,6 @@ None
 None
 None
 None
-Commitment
-Commitment
 None
 None
 None
@@ -3702,7 +3693,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -3739,7 +3729,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -3794,7 +3783,8 @@ None
 None
 None
 None
-Commitment
+None
+None
 None
 None
 None
@@ -3827,6 +3817,7 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
@@ -3876,6 +3867,7 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
@@ -3888,6 +3880,7 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
@@ -3915,7 +3908,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -3926,6 +3918,9 @@ None
 None
 None
 None
+Commitment
+Commitment
+None
 None
 None
 None
@@ -3969,7 +3964,10 @@ None
 None
 None
 None
+None
 Commitment
+None
+None
 None
 None
 None
@@ -4052,6 +4050,7 @@ None
 None
 None
 None
+None
 Commitment
 None
 None
@@ -4084,6 +4083,8 @@ None
 None
 None
 None
+None
+Commitment
 None
 None
 None
@@ -4101,6 +4102,7 @@ None
 None
 None
 Commitment
+Commitment
 None
 None
 None
@@ -4112,6 +4114,7 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
@@ -4170,10 +4173,8 @@ None
 None
 None
 None
-Commitment
 None
 None
-Commitment
 None
 None
 None
@@ -4199,16 +4200,15 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
 None
 None
-Commitment
 None
 None
 None
-Commitment
 None
 None
 None
@@ -4224,6 +4224,9 @@ None
 None
 None
 None
+None
+None
+Commitment
 None
 None
 None
@@ -4250,6 +4253,7 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
@@ -4282,6 +4286,7 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
@@ -4297,10 +4302,12 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
 None
+Commitment
 None
 None
 None
@@ -4342,6 +4349,7 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
@@ -4356,7 +4364,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -4369,7 +4376,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -4377,6 +4383,7 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
@@ -4413,18 +4420,17 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
 None
 None
 None
-Commitment
 None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -4454,8 +4460,6 @@ None
 None
 None
 None
-Commitment
-Commitment
 None
 None
 None
@@ -4471,14 +4475,12 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -4489,7 +4491,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
@@ -4516,7 +4517,7 @@ None
 None
 None
 None
-Commitment
+None
 None
 None
 None
@@ -4525,6 +4526,7 @@ None
 None
 None
 None
+Commitment
 None
 None
 None
@@ -4608,7 +4610,6 @@ None
 None
 None
 None
-Commitment
 None
 None
 None
